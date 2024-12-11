@@ -1,0 +1,32 @@
+/* styles/styles.css */
+
+/* Common styles omitted for brevity */
+
+main {
+    padding: 20px;
+}
+
+.story {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.story img {
+    max-width: 150px;
+    margin-right: 20px;
+}
+
+.story h2 {
+    margin-top: 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
